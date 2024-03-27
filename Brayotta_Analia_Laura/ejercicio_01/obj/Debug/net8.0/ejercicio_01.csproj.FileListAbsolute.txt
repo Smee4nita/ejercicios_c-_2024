@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_01\bin\Debug\net8.0\ejercicio_01.exe
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_01\bin\Debug\net8.0\ejercicio_01.deps.json
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_01\bin\Debug\net8.0\ejercicio_01.runtimeconfig.json
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_01\bin\Debug\net8.0\ejercicio_01.dll
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_01\bin\Debug\net8.0\ejercicio_01.pdb
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_01\obj\Debug\net8.0\ejercicio_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_01\obj\Debug\net8.0\ejercicio_01.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_01\obj\Debug\net8.0\ejercicio_01.AssemblyInfo.cs
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_01\obj\Debug\net8.0\ejercicio_01.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_01\obj\Debug\net8.0\ejercicio_01.sourcelink.json
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_01\obj\Debug\net8.0\ejercicio_01.dll
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_01\obj\Debug\net8.0\refint\ejercicio_01.dll
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_01\obj\Debug\net8.0\ejercicio_01.pdb
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_01\obj\Debug\net8.0\ejercicio_01.genruntimeconfig.cache
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_01\obj\Debug\net8.0\ref\ejercicio_01.dll

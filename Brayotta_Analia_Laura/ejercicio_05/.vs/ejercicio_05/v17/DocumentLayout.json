@@ -1,9 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\ejercicio_05\\",
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\ejercicio_05\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D49D9447-94CA-4814-9299-9ABECF740884}|ejercicio_05\\ejercicio_05.csproj|c:\\users\\admin\\desktop\\ejercicios_c-_2024\\ejercicio_05\\ejercicio_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6A1C06A7-0C2A-4804-8542-0DBD3B544E54}|..\\..\\..\\ejercicios_CFP\\repaso_bucles\\repaso_bucles.csproj|c:\\users\\admin\\desktop\\ejercicios_cfp\\repaso_bucles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2C90B9-217C-4AFD-ADE3-C36A1B35DEF9}|ejercicio_06_Lamparitas\\ejercicio_06_Lamparitas.csproj|c:\\users\\admin\\desktop\\ejercicios_c-_2024\\brayotta_analia_laura\\ejercicio_05\\ejercicio_06_lamparitas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2C90B9-217C-4AFD-ADE3-C36A1B35DEF9}|ejercicio_06_Lamparitas\\ejercicio_06_Lamparitas.csproj|solutionrelative:ejercicio_06_lamparitas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49D9447-94CA-4814-9299-9ABECF740884}|ejercicio_05\\ejercicio_05.csproj|c:\\users\\admin\\desktop\\ejercicios_c-_2024\\brayotta_analia_laura\\ejercicio_05\\ejercicio_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D49D9447-94CA-4814-9299-9ABECF740884}|ejercicio_05\\ejercicio_05.csproj|solutionrelative:ejercicio_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,14 +27,39 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\ejercicio_05\\ejercicio_05\\Program.cs",
-              "RelativeDocumentMoniker": "ejercicio_05\\Program.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\ejercicio_05\\ejercicio_05\\Program.cs",
-              "RelativeToolTip": "ejercicio_05\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAqwB4AAADXAAAA",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\repaso_bucles\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\ejercicios_CFP\\repaso_bucles\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\repaso_bucles\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\ejercicios_CFP\\repaso_bucles\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCIAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T21:38:51.084Z",
+              "WhenOpened": "2024-03-25T23:09:50.433Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\ejercicio_05\\ejercicio_06_Lamparitas\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio_06_Lamparitas\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\ejercicio_05\\ejercicio_06_Lamparitas\\Program.cs",
+              "RelativeToolTip": "ejercicio_06_Lamparitas\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAE0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T22:34:23.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\ejercicio_05\\ejercicio_05\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio_05\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\ejercicio_05\\ejercicio_05\\Program.cs",
+              "RelativeToolTip": "ejercicio_05\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T21:38:51.084Z"
             }
           ]
         }
