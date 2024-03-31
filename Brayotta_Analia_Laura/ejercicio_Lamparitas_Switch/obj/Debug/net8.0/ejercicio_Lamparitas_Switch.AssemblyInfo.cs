@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ejercicio_06_Lamparitas")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ejercicio_Lamparitas_Switch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb4795d28e69581456d28c704edd97f5b8875542")]
-[assembly: System.Reflection.AssemblyProductAttribute("ejercicio_06_Lamparitas")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ejercicio_06_Lamparitas")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3279390332fbe8529c5936ae2f7eea76e1fdf0d")]
+[assembly: System.Reflection.AssemblyProductAttribute("ejercicio_Lamparitas_Switch")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ejercicio_Lamparitas_Switch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

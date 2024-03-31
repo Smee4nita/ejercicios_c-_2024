@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_Lamparitas_Switch\bin\Debug\net8.0\ejercicio_Lamparitas_Switch.exe
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_Lamparitas_Switch\bin\Debug\net8.0\ejercicio_Lamparitas_Switch.deps.json
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_Lamparitas_Switch\bin\Debug\net8.0\ejercicio_Lamparitas_Switch.runtimeconfig.json
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_Lamparitas_Switch\bin\Debug\net8.0\ejercicio_Lamparitas_Switch.dll
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_Lamparitas_Switch\bin\Debug\net8.0\ejercicio_Lamparitas_Switch.pdb
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_Lamparitas_Switch\obj\Debug\net8.0\ejercicio_Lamparitas_Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_Lamparitas_Switch\obj\Debug\net8.0\ejercicio_Lamparitas_Switch.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_Lamparitas_Switch\obj\Debug\net8.0\ejercicio_Lamparitas_Switch.AssemblyInfo.cs
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_Lamparitas_Switch\obj\Debug\net8.0\ejercicio_Lamparitas_Switch.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_Lamparitas_Switch\obj\Debug\net8.0\ejercicio_Lamparitas_Switch.sourcelink.json
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_Lamparitas_Switch\obj\Debug\net8.0\ejercicio_Lamparitas_Switch.dll
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_Lamparitas_Switch\obj\Debug\net8.0\refint\ejercicio_Lamparitas_Switch.dll
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_Lamparitas_Switch\obj\Debug\net8.0\ejercicio_Lamparitas_Switch.pdb
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_Lamparitas_Switch\obj\Debug\net8.0\ejercicio_Lamparitas_Switch.genruntimeconfig.cache
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_Lamparitas_Switch\obj\Debug\net8.0\ref\ejercicio_Lamparitas_Switch.dll
