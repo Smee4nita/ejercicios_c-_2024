@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{94278569-3B9A-4FD0-BBD4-F9BAF6EE0464}|ejercicio_String_04\\ejercicio_String_04.csproj|c:\\users\\admin\\desktop\\ejercicios_c-_2024\\brayotta_analia_laura\\ejercicio_string_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94278569-3B9A-4FD0-BBD4-F9BAF6EE0464}|ejercicio_String_04\\ejercicio_String_04.csproj|solutionrelative:ejercicio_string_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F5569EF1-9F16-475D-B958-2539AD3319C4}|ejercicio_String_01\\ejercicio_String_01.csproj|c:\\users\\admin\\desktop\\ejercicios_c-_2024\\brayotta_analia_laura\\ejercicio_string_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5569EF1-9F16-475D-B958-2539AD3319C4}|ejercicio_String_01\\ejercicio_String_01.csproj|solutionrelative:ejercicio_string_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -40,6 +44,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\ejercicio_String_04\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio_String_04\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\ejercicio_String_04\\Program.cs",
+              "RelativeToolTip": "ejercicio_String_04\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T00:20:34.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\ejercicio_String_01\\Program.cs",
               "RelativeDocumentMoniker": "ejercicio_String_01\\Program.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\ejercicio_String_01\\Program.cs",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\ejercicio_Lamparitas_Switch\\Program.cs",
               "RelativeDocumentMoniker": "ejercicio_Lamparitas_Switch\\Program.cs",
@@ -59,12 +76,11 @@
               "RelativeToolTip": "ejercicio_Lamparitas_Switch\\Program.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAA1wGgAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T23:09:14.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T23:09:14.565Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\Ejercicio_02\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicio_02\\Program.cs",
@@ -76,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\ejercicio_01\\Program.cs",
               "RelativeDocumentMoniker": "ejercicio_01\\Program.cs",
@@ -88,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\Ejercicio_04\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicio_04\\Program.cs",
@@ -100,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\ejercicio_3\\Program.cs",
               "RelativeDocumentMoniker": "ejercicio_3\\Program.cs",

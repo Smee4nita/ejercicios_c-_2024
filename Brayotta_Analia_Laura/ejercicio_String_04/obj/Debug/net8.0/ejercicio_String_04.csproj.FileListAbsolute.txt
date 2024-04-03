@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_String_04\bin\Debug\net8.0\ejercicio_String_04.exe
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_String_04\bin\Debug\net8.0\ejercicio_String_04.deps.json
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_String_04\bin\Debug\net8.0\ejercicio_String_04.runtimeconfig.json
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_String_04\bin\Debug\net8.0\ejercicio_String_04.dll
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_String_04\bin\Debug\net8.0\ejercicio_String_04.pdb
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_String_04\obj\Debug\net8.0\ejercicio_String_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_String_04\obj\Debug\net8.0\ejercicio_String_04.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_String_04\obj\Debug\net8.0\ejercicio_String_04.AssemblyInfo.cs
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_String_04\obj\Debug\net8.0\ejercicio_String_04.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_String_04\obj\Debug\net8.0\ejercicio_String_04.sourcelink.json
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_String_04\obj\Debug\net8.0\ejercicio_String_04.dll
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_String_04\obj\Debug\net8.0\refint\ejercicio_String_04.dll
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_String_04\obj\Debug\net8.0\ejercicio_String_04.pdb
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_String_04\obj\Debug\net8.0\ejercicio_String_04.genruntimeconfig.cache
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_String_04\obj\Debug\net8.0\ref\ejercicio_String_04.dll
