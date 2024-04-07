@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_String_4_En_Clase\bin\Debug\net8.0\ejercicio_String_4_En_Clase.exe
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_String_4_En_Clase\bin\Debug\net8.0\ejercicio_String_4_En_Clase.deps.json
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_String_4_En_Clase\bin\Debug\net8.0\ejercicio_String_4_En_Clase.runtimeconfig.json
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_String_4_En_Clase\bin\Debug\net8.0\ejercicio_String_4_En_Clase.dll
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_String_4_En_Clase\bin\Debug\net8.0\ejercicio_String_4_En_Clase.pdb
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_String_4_En_Clase\obj\Debug\net8.0\ejercicio_String_4_En_Clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_String_4_En_Clase\obj\Debug\net8.0\ejercicio_String_4_En_Clase.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_String_4_En_Clase\obj\Debug\net8.0\ejercicio_String_4_En_Clase.AssemblyInfo.cs
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_String_4_En_Clase\obj\Debug\net8.0\ejercicio_String_4_En_Clase.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_String_4_En_Clase\obj\Debug\net8.0\ejercicio_String_4_En_Clase.sourcelink.json
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_String_4_En_Clase\obj\Debug\net8.0\ejercicio_String_4_En_Clase.dll
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_String_4_En_Clase\obj\Debug\net8.0\refint\ejercicio_String_4_En_Clase.dll
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_String_4_En_Clase\obj\Debug\net8.0\ejercicio_String_4_En_Clase.pdb
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_String_4_En_Clase\obj\Debug\net8.0\ejercicio_String_4_En_Clase.genruntimeconfig.cache
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\ejercicio_String_4_En_Clase\obj\Debug\net8.0\ref\ejercicio_String_4_En_Clase.dll

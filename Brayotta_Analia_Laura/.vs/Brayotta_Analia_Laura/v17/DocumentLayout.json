@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{94278569-3B9A-4FD0-BBD4-F9BAF6EE0464}|ejercicio_String_04\\ejercicio_String_04.csproj|c:\\users\\admin\\desktop\\ejercicios_c-_2024\\brayotta_analia_laura\\ejercicio_string_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94278569-3B9A-4FD0-BBD4-F9BAF6EE0464}|ejercicio_String_04\\ejercicio_String_04.csproj|solutionrelative:ejercicio_string_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79748BA6-5FE8-4FD6-B655-C149BD0DCB0E}|ejercicio_String_4_En_Clase\\ejercicio_String_4_En_Clase.csproj|c:\\users\\admin\\desktop\\ejercicios_c-_2024\\brayotta_analia_laura\\ejercicio_string_4_en_clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79748BA6-5FE8-4FD6-B655-C149BD0DCB0E}|ejercicio_String_4_En_Clase\\ejercicio_String_4_En_Clase.csproj|solutionrelative:ejercicio_string_4_en_clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5569EF1-9F16-475D-B958-2539AD3319C4}|ejercicio_String_01\\ejercicio_String_01.csproj|c:\\users\\admin\\desktop\\ejercicios_c-_2024\\brayotta_analia_laura\\ejercicio_string_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5569EF1-9F16-475D-B958-2539AD3319C4}|ejercicio_String_01\\ejercicio_String_01.csproj|solutionrelative:ejercicio_string_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{532DEA21-053A-499F-9041-8D1EC9701995}|ejercicio_String_1_En_Clase\\ejercicio_String_1_En_Clase.csproj|c:\\users\\admin\\desktop\\ejercicios_c-_2024\\brayotta_analia_laura\\ejercicio_string_1_en_clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532DEA21-053A-499F-9041-8D1EC9701995}|ejercicio_String_1_En_Clase\\ejercicio_String_1_En_Clase.csproj|solutionrelative:ejercicio_string_1_en_clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{28D3D4BA-757C-43DA-9B35-F1DABBDF8149}|ejercicio_Lamparitas_Switch\\ejercicio_Lamparitas_Switch.csproj|c:\\users\\admin\\desktop\\ejercicios_c-_2024\\brayotta_analia_laura\\ejercicio_lamparitas_switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28D3D4BA-757C-43DA-9B35-F1DABBDF8149}|ejercicio_Lamparitas_Switch\\ejercicio_Lamparitas_Switch.csproj|solutionrelative:ejercicio_lamparitas_switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AC9BBB3-629A-4365-8D7F-61175BAC9B2A}|ejercicio_3\\ejercicio_3.csproj|c:\\users\\admin\\desktop\\ejercicios_c-_2024\\brayotta_analia_laura\\ejercicio_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AC9BBB3-629A-4365-8D7F-61175BAC9B2A}|ejercicio_3\\ejercicio_3.csproj|solutionrelative:ejercicio_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94DDC7C2-A881-4C07-BC08-CB9686E8DD96}|ejercicio_01\\ejercicio_01.csproj|c:\\users\\admin\\desktop\\ejercicios_c-_2024\\brayotta_analia_laura\\ejercicio_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94DDC7C2-A881-4C07-BC08-CB9686E8DD96}|ejercicio_01\\ejercicio_01.csproj|solutionrelative:ejercicio_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A85E9AFD-13FD-43B4-A031-09F1DA602072}|Ejercicio_02\\Ejercicio_02.csproj|c:\\users\\admin\\desktop\\ejercicios_c-_2024\\brayotta_analia_laura\\ejercicio_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,6 +25,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{CBEDD98F-3CD9-458B-BC47-F39E06A315DC}|Ejercicio_04\\Ejercicio_04.csproj|c:\\users\\admin\\desktop\\ejercicios_c-_2024\\brayotta_analia_laura\\ejercicio_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBEDD98F-3CD9-458B-BC47-F39E06A315DC}|Ejercicio_04\\Ejercicio_04.csproj|solutionrelative:ejercicio_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC9BBB3-629A-4365-8D7F-61175BAC9B2A}|ejercicio_3\\ejercicio_3.csproj|c:\\users\\admin\\desktop\\ejercicios_c-_2024\\brayotta_analia_laura\\ejercicio_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC9BBB3-629A-4365-8D7F-61175BAC9B2A}|ejercicio_3\\ejercicio_3.csproj|solutionrelative:ejercicio_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A722B9E6-1879-49D1-99C8-2B98539DA6FD}|ejercicio_String_3_En_Clase\\ejercicio_String_3_En_Clase.csproj|c:\\users\\admin\\desktop\\ejercicios_c-_2024\\brayotta_analia_laura\\ejercicio_string_3_en_clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A722B9E6-1879-49D1-99C8-2B98539DA6FD}|ejercicio_String_3_En_Clase\\ejercicio_String_3_En_Clase.csproj|solutionrelative:ejercicio_string_3_en_clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94DDC7C2-A881-4C07-BC08-CB9686E8DD96}|ejercicio_01\\ejercicio_01.csproj|c:\\users\\admin\\desktop\\ejercicios_c-_2024\\brayotta_analia_laura\\ejercicio_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94DDC7C2-A881-4C07-BC08-CB9686E8DD96}|ejercicio_01\\ejercicio_01.csproj|solutionrelative:ejercicio_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F390E954-3887-41C0-8367-5D20B35E1B4B}|ejercicio_String__En_Clase\\ejercicio_String__En_Clase.csproj|c:\\users\\admin\\desktop\\ejercicios_c-_2024\\brayotta_analia_laura\\ejercicio_string__en_clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F390E954-3887-41C0-8367-5D20B35E1B4B}|ejercicio_String__En_Clase\\ejercicio_String__En_Clase.csproj|solutionrelative:ejercicio_string__en_clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94278569-3B9A-4FD0-BBD4-F9BAF6EE0464}|ejercicio_String_04\\ejercicio_String_04.csproj|c:\\users\\admin\\desktop\\ejercicios_c-_2024\\brayotta_analia_laura\\ejercicio_string_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94278569-3B9A-4FD0-BBD4-F9BAF6EE0464}|ejercicio_String_04\\ejercicio_String_04.csproj|solutionrelative:ejercicio_string_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,19 +54,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\ejercicio_String_04\\Program.cs",
               "RelativeDocumentMoniker": "ejercicio_String_04\\Program.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\ejercicio_String_04\\Program.cs",
               "RelativeToolTip": "ejercicio_String_04\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-03T00:20:34.102Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\ejercicio_String_3_En_Clase\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio_String_3_En_Clase\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\ejercicio_String_3_En_Clase\\Program.cs",
+              "RelativeToolTip": "ejercicio_String_3_En_Clase\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwDkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T20:20:49.93Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\ejercicio_01\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio_01\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\ejercicio_01\\Program.cs",
+              "RelativeToolTip": "ejercicio_01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T00:03:11.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\ejercicio_String_4_En_Clase\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio_String_4_En_Clase\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\ejercicio_String_4_En_Clase\\Program.cs",
+              "RelativeToolTip": "ejercicio_String_4_En_Clase\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T20:42:19.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\ejercicio_String__En_Clase\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio_String__En_Clase\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\ejercicio_String__En_Clase\\Program.cs",
+              "RelativeToolTip": "ejercicio_String__En_Clase\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T20:10:53.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\ejercicio_String_1_En_Clase\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio_String_1_En_Clase\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\ejercicio_String_1_En_Clase\\Program.cs",
+              "RelativeToolTip": "ejercicio_String_1_En_Clase\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T19:49:23.042Z",
               "EditorCaption": ""
             },
             {
@@ -61,26 +144,27 @@
               "RelativeDocumentMoniker": "ejercicio_String_01\\Program.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\ejercicio_String_01\\Program.cs",
               "RelativeToolTip": "ejercicio_String_01\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBsAAAAUAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBgAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T23:27:35.708Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\ejercicio_Lamparitas_Switch\\Program.cs",
               "RelativeDocumentMoniker": "ejercicio_Lamparitas_Switch\\Program.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\ejercicio_Lamparitas_Switch\\Program.cs",
               "RelativeToolTip": "ejercicio_Lamparitas_Switch\\Program.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAA1wGgAAABKAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwGgAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T23:09:14.565Z"
+              "WhenOpened": "2024-03-31T23:09:14.565Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\Ejercicio_02\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicio_02\\Program.cs",
@@ -88,23 +172,12 @@
               "RelativeToolTip": "Ejercicio_02\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T00:21:26.893Z"
+              "WhenOpened": "2024-03-27T00:21:26.893Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\ejercicio_01\\Program.cs",
-              "RelativeDocumentMoniker": "ejercicio_01\\Program.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\ejercicio_01\\Program.cs",
-              "RelativeToolTip": "ejercicio_01\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T00:03:11.953Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\Ejercicio_04\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicio_04\\Program.cs",
@@ -112,11 +185,12 @@
               "RelativeToolTip": "Ejercicio_04\\Program.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAgwB8AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T20:27:42.504Z"
+              "WhenOpened": "2024-03-23T20:27:42.504Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ejercicios_c-_2024\\Brayotta_Analia_Laura\\ejercicio_3\\Program.cs",
               "RelativeDocumentMoniker": "ejercicio_3\\Program.cs",
@@ -124,7 +198,8 @@
               "RelativeToolTip": "ejercicio_3\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T19:51:18.015Z"
+              "WhenOpened": "2024-03-23T19:51:18.015Z",
+              "EditorCaption": ""
             }
           ]
         }
