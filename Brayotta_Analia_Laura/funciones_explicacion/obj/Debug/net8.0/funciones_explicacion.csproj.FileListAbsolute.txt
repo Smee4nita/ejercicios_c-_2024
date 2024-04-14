@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\funciones_explicacion\obj\Debug\net8.0\funciones_explicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\funciones_explicacion\obj\Debug\net8.0\funciones_explicacion.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\funciones_explicacion\obj\Debug\net8.0\funciones_explicacion.AssemblyInfo.cs
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\funciones_explicacion\obj\Debug\net8.0\funciones_explicacion.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\funciones_explicacion\obj\Debug\net8.0\funciones_explicacion.sourcelink.json
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\funciones_explicacion\bin\Debug\net8.0\funciones_explicacion.deps.json
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\funciones_explicacion\bin\Debug\net8.0\funciones_explicacion.dll
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\funciones_explicacion\bin\Debug\net8.0\funciones_explicacion.pdb
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\funciones_explicacion\obj\Debug\net8.0\funciones_explicacion.dll
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\funciones_explicacion\obj\Debug\net8.0\refint\funciones_explicacion.dll
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\funciones_explicacion\obj\Debug\net8.0\funciones_explicacion.pdb
+C:\Users\admin\Desktop\ejercicios_c-_2024\Brayotta_Analia_Laura\funciones_explicacion\obj\Debug\net8.0\ref\funciones_explicacion.dll
