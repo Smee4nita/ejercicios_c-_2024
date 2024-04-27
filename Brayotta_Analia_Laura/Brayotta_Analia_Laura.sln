@@ -25,9 +25,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejercicio_String_3_En_Clase
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejercicio_String_4_En_Clase", "ejercicio_String_4_En_Clase\ejercicio_String_4_En_Clase.csproj", "{79748BA6-5FE8-4FD6-B655-C149BD0DCB0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "funciones_Ejercicio_1", "funciones_Ejercicio_1\funciones_Ejercicio_1.csproj", "{A73E414A-FEC3-4FA2-993B-5649CAE61270}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "funciones_Ejercicio_1", "funciones_Ejercicio_1\funciones_Ejercicio_1.csproj", "{A73E414A-FEC3-4FA2-993B-5649CAE61270}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "funciones_explicacion", "funciones_explicacion\funciones_explicacion.csproj", "{D175B240-F45C-45A8-9812-A848D00D5917}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "funciones_explicacion", "funciones_explicacion\funciones_explicacion.csproj", "{D175B240-F45C-45A8-9812-A848D00D5917}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String_Ejercicio_5_En_Clase", "String_Ejercicio_5_En_Clase\String_Ejercicio_5_En_Clase.csproj", "{904F9A10-CFA2-4864-A208-9C69CC77E95B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{D175B240-F45C-45A8-9812-A848D00D5917}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D175B240-F45C-45A8-9812-A848D00D5917}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D175B240-F45C-45A8-9812-A848D00D5917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{904F9A10-CFA2-4864-A208-9C69CC77E95B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{904F9A10-CFA2-4864-A208-9C69CC77E95B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{904F9A10-CFA2-4864-A208-9C69CC77E95B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{904F9A10-CFA2-4864-A208-9C69CC77E95B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

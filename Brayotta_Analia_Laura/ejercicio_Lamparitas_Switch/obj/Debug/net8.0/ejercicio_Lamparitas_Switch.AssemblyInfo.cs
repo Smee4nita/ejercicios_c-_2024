@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ejercicio_Lamparitas_Switch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38733bcef1806405f5005a2bd54e0c11a6ea65ef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+743c3b60e3d2b259228f724097109a5e6bd41da5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ejercicio_Lamparitas_Switch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ejercicio_Lamparitas_Switch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
